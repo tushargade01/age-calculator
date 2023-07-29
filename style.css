@@ -10,6 +10,7 @@ body{
 }
 .container{
   position: fixed;
+  width: 500px;
   top: 10%;
   left: 10%;
 }
